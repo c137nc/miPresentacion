@@ -4,7 +4,7 @@
 
 ### Datos Personales
 
-
+![ Mi foto ] (Foto de Nanu (1).jpg)
 
 - Edad: 32 años
 - Soltera
