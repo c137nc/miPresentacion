@@ -11,7 +11,7 @@
 - Sin hijos
 - Estudiante de **Unpaz**
 
-### Lenguajes de Programacion ###
+### Lenguajes de Programacion
 
 - Javascript
 - Python
