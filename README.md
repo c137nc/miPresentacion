@@ -4,7 +4,7 @@
 
 ### Datos Personales
 
-![Mi foto](Foto de Nanu.jpg)
+! [Mi foto](Foto de Nanu.jpg)
 
 - Edad: 32 años
 - Solera
