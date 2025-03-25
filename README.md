@@ -4,7 +4,7 @@
 
 ### Datos Personales
 
-! [Mi foto](https://github.com/c137nc/miPresentacion/blob/main/Foto%20de%20Nanu.jpg)
+
 
 - Edad: 32 años
 - Soltera
